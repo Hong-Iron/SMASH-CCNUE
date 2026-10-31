@@ -1,0 +1,142 @@
+{
+  "code": "CCNUE",
+  "title": "SMASH CCNUE",
+  "school": "춘천교대",
+  "fullName": "춘천교육대학교",
+  "campusName": "춘천교육대학교",
+  "tagline": "춘천교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "춘천교육대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 춘천교육대학교 3D 화면과 SMASH CCNUE 제목",
+  "url": "https://hong-iron.github.io/SMASH-CCNUE/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 429470568
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "id": "way/601080391",
+      "n": "본관",
+      "why": "항공사진에 없음 — 옛 행정본관을 헐고 다시 짓는 중이라 사진에는 빈 흙바닥만 있다."
+    },
+    {
+      "at": [
+        37.8581781,
+        127.7497852
+      ],
+      "n": "석사초등학교",
+      "why": "학교 건물 아님 — 옆에 따로 있는 석사초등학교 땅(석사동 326-1)에 그려진 윤곽이고, 사진에서도 그 학교 주차장 자리다."
+    },
+    {
+      "at": [
+        37.8573578,
+        127.747379
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 정문 옆 개인 땅(석사동 311-4 대지)에 1983년에 지은 상가 건물이라 학교 것이 아니다."
+    },
+    {
+      "at": [
+        37.857833,
+        127.7488158
+      ],
+      "n": "교사동1",
+      "why": "학교 건물 아님 — 건축물대장에 석사초등학교 교사동1로 적힌 옆 초등학교의 교실 건물이다."
+    },
+    {
+      "at": [
+        37.8583069,
+        127.7492368
+      ],
+      "n": "교사동2",
+      "why": "학교 건물 아님 — 건축물대장에 석사초등학교 교사동2로 적힌 옆 초등학교의 교실 건물이다."
+    },
+    {
+      "at": [
+        37.8587481,
+        127.7489756
+      ],
+      "n": "골프연습장",
+      "why": "항공사진에 없음 — 대장에는 골프연습장으로 남아 있지만 사진에서는 주차장 옆 나무 띠라 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        37.8597246,
+        127.7481881
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 과학관 북쪽 길 위에 그려진 윤곽이라 사진에 따로 서 있는 건물이 없다."
+    },
+    {
+      "at": [
+        37.85842,
+        127.749481
+      ],
+      "n": "석사초등학교",
+      "why": "학교 건물 아님 — 건축물대장에 석사초등학교로 적힌 옆 초등학교의 급식소·체육관이다."
+    },
+    {
+      "at": [
+        37.8580266,
+        127.7495296
+      ],
+      "n": "석사초등학교",
+      "why": "학교 건물 아님 — 석사초등학교 땅(석사동 326-1)에 있는 옆 초등학교의 작은 건물이다."
+    }
+  ],
+  "look": {
+    "석우관": {
+      "style": "ribbon",
+      "wall": "#ece8dd",
+      "glass": "#5f86a0",
+      "frame": "#b4b8b9"
+    },
+    "학술정보센터": {
+      "style": "ribbon",
+      "wall": "#d38a6d",
+      "glass": "#4f5552",
+      "frame": "#e0c3a8"
+    },
+    "목련관": {
+      "style": "dorm",
+      "wall": "#a19e93",
+      "glass": "#2f3335",
+      "frame": "#d6d4cc",
+      "roof": "#4b423f",
+      "hip": true
+    },
+    "집현관": {
+      "style": "stone",
+      "wall": "#c6c2bc",
+      "glass": "#505254",
+      "frame": "#8a9196"
+    },
+    "홍익관": {
+      "style": "brick",
+      "wall": "#8f766c",
+      "glass": "#3e5f5b",
+      "frame": "#e2dfd8"
+    },
+    "미술관": {
+      "style": "tan",
+      "wall": "#c3ad96",
+      "glass": "#4f5a5e",
+      "frame": "#7f8689"
+    },
+    "음악관": {
+      "style": "brick",
+      "wall": "#bf8c75",
+      "glass": "#4d5552",
+      "frame": "#f0eee8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
